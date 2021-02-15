@@ -25,6 +25,7 @@
                         <th scope="col"> Product Name</th>
                         <th scope="col"> Price</th>
                         <th scope="col"> Expiry Date</th>
+                        <th>Shongi</th>
                         {{-- <th scope="col"> Password</th> --}}
 
                         <th class="text text-center"scope="col">Action</th>
